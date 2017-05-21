@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/gd_common"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/oracle.stores.pos.closed.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/commons-codec-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/commons-lang-2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/commons-logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/geronimo-stax-api_1.0_spec-1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/javax.jms.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/jaxb-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/log4j-1.2.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/ojdbc5.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/oracle.stores.commext.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/oracle.stores.common.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/oracle.stores.datareplication.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/oracle.stores.encryptionclient.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/oracle.stores.exportfile.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/oracle.stores.exportxml.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/oracle.stores.foundation.jar" sourcepath="/Acme pos"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/oracle.stores.persistence.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/oracle.stores.utility.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/org.springframework.core-3.0.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/AJBComm.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/javax.ejb.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/wlthint3client.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/shared.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/GDJars/oracle.stores.domain.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
